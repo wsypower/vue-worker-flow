@@ -1,6 +1,6 @@
 {
   "name": "wsy-admin",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "scripts": {
     "bootstrap": "pnpm install",
     "serve": "vite",
@@ -21,7 +21,7 @@
     "shell:rm-git-merged": "./scripts/sh/git.rm.sh",
     "cz": "git-cz",
     "log": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "release": "standard-version --preset gitmoji-config"
+    "release": "standard-version "
   },
   "dependencies": {
     "-": "^0.0.1",
