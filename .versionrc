@@ -1,5 +1,5 @@
 {
-  "types": ["类型":,[
+  "types": ["类型":[
     { "type": 'feat', "section": '✨ Features | 新功能' },
     { "type": 'fix', "section": '🐛 Bug Fixes | Bug 修复' },
     { "type": 'init', "section": '🎉 Init | 初始化' },
