@@ -1,5 +1,5 @@
 {
-  "types": ["类型":[
+  "types": [
     { "type": 'feat', "section": '✨ Features | 新功能' },
     { "type": 'fix', "section": '🐛 Bug Fixes | Bug 修复' },
     { "type": 'init', "section": '🎉 Init | 初始化' },
@@ -12,5 +12,5 @@
     { "type": 'build', "section": '📦‍ Build System | 打包构建' },
     { "type": 'chore', "section": '🚀 Chore | 构建/工程依赖/工具' },
     { "type": 'ci', "section": '👷 Continuous Integration | CI 配置' }
-  ]]
+  ]
 }
