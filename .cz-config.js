@@ -2,7 +2,7 @@
  * @Description:
  * @Author: wsy
  * @Date: 2021-12-17 15:23:59
- * @LastEditTime: 2021-12-22 17:51:28
+ * @LastEditTime: 2021-12-22 18:24:32
  * @LastEditors: wsy
  */
 module.exports = {
@@ -33,7 +33,7 @@ module.exports = {
     footer: '请输入要关闭的issue(可选):',
     confirmCommit: '确认使用以上信息提交吗?'
   },
-  // allowCustomScopes: true,
+  allowCustomScopes: true,
   // 当提交类型为feat、fix时才有破坏性修改选项
   allowBreakingChanges: ['feat', 'fix'],
   // subject文字长度默认是72
