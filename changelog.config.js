@@ -2,13 +2,14 @@
  * @Description:
  * @Author: wsy
  * @Date: 2021-12-22 18:36:33
- * @LastEditTime: 2021-12-22 18:43:37
+ * @LastEditTime: 2021-12-22 18:45:02
  * @LastEditors: wsy
  */
 module.exports = {
   withEmoji: true,
   /**
    * title language
+   * @param {string} 'en-US' | 'zh-CN'
    * @default en-US
    */
   titleLanguage: 'en-US' | 'zh-CN',
@@ -16,5 +17,5 @@ module.exports = {
    * whether to show author
    * @default false
    */
-  showAuthor: true
+  showAuthor: false
 }
