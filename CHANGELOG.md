@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.2](https://github.com/wsypower/wsy-vue3-template/compare/v0.1.1...v0.1.2) (2021-12-22)
+
+
+### 🐛 Bug Fixes
+
+* **packages**: 这是一次测试修复 ([90a1bd9](https://github.com/wsypower/wsy-vue3-template/commit/90a1bd9))
+
+
+
 ## [0.1.1](https://github.com/wsypower/wsy-vue3-template/compare/v0.1.0...v0.1.1) (2021-12-22)
 
 
