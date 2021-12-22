@@ -2,7 +2,7 @@
  * @Description:
  * @Author: wsy
  * @Date: 2021-12-17 15:23:59
- * @LastEditTime: 2021-12-22 18:24:32
+ * @LastEditTime: 2021-12-22 20:37:39
  * @LastEditors: wsy
  */
 module.exports = {
@@ -29,13 +29,11 @@ module.exports = {
     customScope: '请输入修改范围(可选):',
     subject: '请简要描述提交(必填):',
     body: '请输入详细描述(可选):',
-    breaking: '列出任何BREAKING CHANGES(可选)',
     footer: '请输入要关闭的issue(可选):',
     confirmCommit: '确认使用以上信息提交吗?'
   },
-  allowCustomScopes: true,
   // 当提交类型为feat、fix时才有破坏性修改选项
   allowBreakingChanges: ['feat', 'fix'],
   // subject文字长度默认是72
-  subjectLimit: 100
+  subjectLimit: 72
 }
