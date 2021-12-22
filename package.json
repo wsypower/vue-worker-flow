@@ -1,6 +1,6 @@
 {
   "name": "wsy-admin",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "scripts": {
     "bootstrap": "pnpm install",
     "serve": "vite",
